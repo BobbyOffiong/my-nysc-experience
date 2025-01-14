@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BobbyOffiong/my-nysc-experience/static/css/main.aaee0d10.css",
+    "main.js": "/BobbyOffiong/my-nysc-experience/static/js/main.b94a76e7.js",
+    "index.html": "/BobbyOffiong/my-nysc-experience/index.html",
+    "main.aaee0d10.css.map": "/BobbyOffiong/my-nysc-experience/static/css/main.aaee0d10.css.map",
+    "main.b94a76e7.js.map": "/BobbyOffiong/my-nysc-experience/static/js/main.b94a76e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aaee0d10.css",
+    "static/js/main.b94a76e7.js"
+  ]
+}
